@@ -1,2 +1,4 @@
 # Exercicios-Java
-Introdução Programação
+Introdução Programação - Matutino
+
+Repositório contendo exercícios da matéria de Introdução à Programação
